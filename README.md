@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/danikeinox" target="blank"><img src="https://img.shields.io/twitter/follow/danikeinox?logo=twitter&style=for-the-badge" alt="danikeinox" /></a> </p>
 
-- 🔭 I’m currently working on [VinyaEstat](https://github.com/VinyaEstat/projecte_vin)
+- 🔭 I’m currently working on [VinyaEstat](https://github.com/VinyaEstat/projecte_vin) 🔐
 
-- 🌱 I’m currently learning **AI and Programming Languages (C, Java, Python, Rust, etc.)**
+- 🌱 I’m currently learning **AI Machine Learning and Programming Languages (C, Java, Python, Rust, etc.)**
 
-- 👯 I’m looking to collaborate on **End**
+- 👯 I’m looking to collaborate on [End](https://github.com/danikeinox/endproject) 🔐
 
-- 🤝 I’m looking for help with [miRenfe](https://github.com/danikeinox/mirenfe)
+- 🤝 I’m looking for help with [miRenfe](https://github.com/danikeinox/mirenfe) 🔐
 
 - 👨‍💻 All of my projects are available at [https://www.danielcabrera.es](https://www.danielcabrera.es)
 
-- 📝 I regularly write articles on [https://dev.to/danikeinox](https://dev.to/danikeinox)
+<!-- UNUSED
+- 📝 I regularly write articles on [https://dev.to/danikeinox](https://dev.to/danikeinox) 
+-->
 
 - 💬 Ask me about **AI, future business...**
 
