@@ -38,8 +38,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/danikeinox"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danikeinox" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danikeinox&show_icons=true&theme=dark&title_color=ff9500&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="danikeinox" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danikeinox&show_icons=true&theme=dark&title_color=ff9500&text_color=ffffff&bg_color=151515&locale=en" alt="danikeinox" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danikeinox&theme=dark" alt="danikeinox" /></p>
