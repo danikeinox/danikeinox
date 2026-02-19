@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danikeinox&label=Profile%20views&color=ff9500&style=plastic" alt="danikeinox" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danikeinox" alt="danikeinox" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/danikeinox" target="blank"><img src="https://img.shields.io/twitter/follow/danikeinox?logo=twitter&style=for-the-badge" alt="danikeinox" /></a> </p>
 
-- 🔭 I’m currently working on [VinyaEstat](https://github.com/VinyaEstat/projecte_vin) 🔐
+- 🔭 I’m currently open to work! 🔐
 
 - 🌱 I’m currently learning **AI Machine Learning and Programming Languages (C, Java, Python, Rust, etc.)**
-
-- 👯 I’m looking to collaborate on [End](https://github.com/danikeinox/endproject) 🔐
-
-- 🤝 I’m looking for help with [miRenfe](https://github.com/danikeinox/mirenfe) 🔐
 
 - 👨‍💻 All of my projects are available at [https://www.danielcabrera.es](https://www.danielcabrera.es)
 
